@@ -37,3 +37,10 @@ next-env.d.ts
 # Package lock files
 foundry.lock
 package-lock.json
+pnpm-lock.yaml
+
+# Smart contracts - Foundry
+cache/
+out/
+broadcast
+contracts/lib/*
