@@ -1,3 +1,8 @@
+# # World ID On-Chain Verifier
+
+<br>
+
+
 # World ID On-Chain Template
 
 Template repository for a World ID On-Chain Integration.
