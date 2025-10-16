@@ -10,6 +10,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@reown/appkit": "^1.8.9",
+    "@reown/appkit-adapter-wagmi": "^1.8.9",
     "@tanstack/react-query": "^5.28.6",
     "@types/node": "20.1.2",
     "@types/react": "18.2.6",
@@ -17,7 +19,6 @@
     "@wagmi/core": "^2.6.9",
     "@worldcoin/idkit": "^1.1.4",
     "autoprefixer": "10.4.14",
-    "connectkit": "^1.7.2",
     "eslint": "8.40.0",
     "eslint-config-next": "13.4.1",
     "next": "13.4.1",
