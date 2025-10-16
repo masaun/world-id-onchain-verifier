@@ -38,6 +38,7 @@ contract Contract {
 		externalNullifier = abi.encodePacked(abi.encodePacked(_appId).hashToField(), _actionId).hashToField();
 	}
 
+	/// @notice - This is a write function.
 	/// @param signal An arbitrary input from the user, usually the user's wallet address (check README for further details)
 	/// @param root The root of the Merkle tree (returned by the JS widget).
 	/// @param nullifierHash The nullifier hash for this proof, preventing double signaling (returned by the JS widget).

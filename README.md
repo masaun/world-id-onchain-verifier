@@ -1,4 +1,4 @@
-# # World ID On-Chain Verifier
+# World ID On-Chain Verifier
 
 <br>
 
