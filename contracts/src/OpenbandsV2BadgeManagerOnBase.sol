@@ -8,7 +8,7 @@ import { DataType } from "./dataType/DataType.sol";
  * @notice - The Self On-Chain Records contract can verify a proof of humanity from the WorldIDVerifier contract.
  * @notice - The Self On-Chain Records contract that the verification status from WorldIDVerifier and a given wallet address are stored and associated.
  */
-contract WorldIDRecordManager {
+contract OpenbandsV2BadgeManagerOnBase {
     WorldIDVerifier public worldIDVerifier;
 
     // @dev - Store an individual's proof related record.
